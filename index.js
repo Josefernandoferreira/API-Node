@@ -9,4 +9,5 @@ const saudacao = () =>{
 }
 
 hellowWord();
+
 console.log(`A saudação do momento é: ` + saudacao());
